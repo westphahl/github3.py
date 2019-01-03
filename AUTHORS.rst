@@ -176,3 +176,5 @@ Contributors
 - Andreas Burger (@AndreasBurger)
 
 - James E. Blair (@jeblair)
+
+- Chuck Norris (IS GitHub)
