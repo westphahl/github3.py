@@ -22,7 +22,7 @@ Design Advice
 
 - Kenneth Reitz
 
-Contributors
+ContributorsGeneral​​​​​​​ 
 ------------
 
 - Dominik Dabrowski (@doda)
